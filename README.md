@@ -2,9 +2,10 @@
 
 ## About me
 ### Interested in ML/DL and Data science
-### Currently studying in Astana IT University 3rd year Computer Science
+### Astana IT University 3rd year Computer Science
 
-## Telegram: @whoaasd
+## Contacts
+### Telegram: @whoaasd
 <!--
 **naomiu66/naomiu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
